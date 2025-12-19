@@ -1,0 +1,8 @@
+git config --global user.name "carelightt"
+git config --global user.email "1carelight@gmail.com"
+git init
+git remote add origin https://github.com/carelightt/pdf-admin.git
+git add .
+git commit -m "ilk kurulum"
+git branch -M main
+git push -u origin main
